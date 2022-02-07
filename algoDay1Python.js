@@ -25,5 +25,5 @@ function acronymCreator(given){
 
 var creature = "Eric Michael niemeyer";
 
-console.log(reverseString(creature));
-console.log("acronym: " + acronymCreator(creature))
+console.log("reversed: " + reverseString(creature));
+console.log(" acronym: " + acronymCreator(creature))
